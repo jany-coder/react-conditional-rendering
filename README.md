@@ -1,8 +1,15 @@
-## React conditional rendering 
 
-### Topic
+# React conditional rendering
 
-    1. if else condition
-    2. ternary operator
-    3. toggle 
-    4. use logical and
+
+## Features
+
+- toggle button
+- if else condition
+- ternary operator
+- short circuit - use logical AND 
+
+  
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/Cb7wfWL/conditional-rendering.jpg)
